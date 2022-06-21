@@ -1,0 +1,33 @@
+main {
+    margin-top:6%; 
+}
+.navbar-brand {
+    font-size: 25px;
+}
+nav {
+    /* width: 80%;
+    margin-left: 5%;
+    justify-content: center; */
+    background-color: rgba(56, 56, 56, 0.856);
+    
+}
+.card-img-overlay {
+    border-radius: 25px;
+    background-color:#919aa09d;
+}
+
+i {
+    padding-left: 20px;
+    color: rgba(37, 37, 71, 0.699);
+}
+.btn {
+    color: rgb(255, 255, 255);
+}
+.buchen {
+    color: rgb(93, 125, 151);
+}
+.booking {
+    background-color: white;
+}
+
+
